@@ -1,0 +1,6 @@
+*.pyc
+*~
+/crud/crud/__pycache__
+/crud/posts/__pycache__
+/crud/db.sqlite3
+/venv/
