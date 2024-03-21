@@ -12,7 +12,6 @@ This is a simple CRUD API built with Django and Django REST Framework for the Co
 
 Please install the `requirements.txt` to use this.
 
-Live deploy here: https://github.com/matheudev/crud-api
-
+Live deploy here: https://matheusolidev.pythonanywhere.com/api/posts/
 
 
